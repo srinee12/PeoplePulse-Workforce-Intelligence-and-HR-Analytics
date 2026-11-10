@@ -1,0 +1,7 @@
+{
+  "employees.csv": "One row per employee. Includes demographics, org attributes, compensation, engagement and synthetic attrition target.",
+  "training_records.csv": "One row per training enrollment (20,000).",
+  "performance_reviews.csv": "One annual performance review per employee per year for 2021\u20132025 (60,000 rows).",
+  "monthly_attendance.csv": "One employee-month attendance summary for 2021\u20132025 (720,000 rows).",
+  "recruitment_pipeline.csv": "One row per candidate application (5,000 rows)."
+}

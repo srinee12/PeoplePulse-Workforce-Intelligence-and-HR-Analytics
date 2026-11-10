@@ -1,0 +1,27 @@
+[
+  {
+    "file": "employees.csv",
+    "columns": 15,
+    "sample_rows_loaded": 5
+  },
+  {
+    "file": "monthly_attendance.csv",
+    "columns": 8,
+    "sample_rows_loaded": 5
+  },
+  {
+    "file": "performance_reviews.csv",
+    "columns": 7,
+    "sample_rows_loaded": 5
+  },
+  {
+    "file": "recruitment_pipeline.csv",
+    "columns": 8,
+    "sample_rows_loaded": 5
+  },
+  {
+    "file": "training_records.csv",
+    "columns": 8,
+    "sample_rows_loaded": 5
+  }
+]
